@@ -10,7 +10,7 @@ public class Problem8 {
         }
 
         long largestProduct = 0;
-        for (int i = 0; i < number.length()/2 - 12; i++) {
+        for (int i = 0; i < number.length() - 12; i++) {
             long product = 1;
             for (int j = 0; j <= 12; j++) {
                 product *= Character.getNumericValue(number.charAt((i + j)));
