@@ -1,5 +1,3 @@
-import java.math.BigInteger;
-
 public class Problem7 {
     public static int answer() {
         int number = 0, count = 1;
