@@ -1,4 +1,4 @@
-public class Problem3 {
+public class Problem003 {
     public static long answer() {
         long number = 600851475143L;
         long largest = 0;

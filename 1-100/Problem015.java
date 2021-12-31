@@ -1,4 +1,4 @@
-public class Problem15 {
+public class Problem015 {
     public static long answer() {
         long[][] grid = new long[21][21];
         for (int i = 0; i < grid.length; i++) {

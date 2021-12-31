@@ -1,6 +1,6 @@
 import java.math.*;
 
-public class Problem20 {
+public class Problem020 {
     public static int answer() {
         BigInteger number = BigInteger.valueOf(1);
         for (int i = 100; i > 0; i--) {

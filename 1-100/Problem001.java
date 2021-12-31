@@ -1,4 +1,4 @@
-public class Problem1 {
+public class Problem001 {
     public static int answer() {
         int sum = 0;
         for (int i = 1; i < 1000; i++) {

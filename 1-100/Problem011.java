@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Problem11 {
+public class Problem011 {
     public static int answer() throws FileNotFoundException {
         Scanner scan = new Scanner(new File("data.txt"));
         String[][] grid = new String[20][20];

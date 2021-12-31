@@ -1,4 +1,4 @@
-public class Problem12 {
+public class Problem012 {
     public static int answer() {
         int number = 0;
         for (int i = 1; i > 0; i++) {

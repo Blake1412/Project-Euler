@@ -1,5 +1,5 @@
 
-public class Problem21 {
+public class Problem021 {
     private static int sumOfFactors(int n) {
         int sum = 1;
         for (int i = 2; i <= n / 2; i++) {

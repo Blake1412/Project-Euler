@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem8 {
+public class Problem008 {
     public static long answer() throws FileNotFoundException {
         String number = "";
         Scanner scan = new Scanner(new File("data.txt"));

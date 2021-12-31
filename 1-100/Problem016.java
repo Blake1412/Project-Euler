@@ -1,6 +1,6 @@
 import java.math.*;
 
-public class Problem16 {
+public class Problem016 {
     public static int answer() {
         int sum = 0;
         BigInteger number = BigInteger.valueOf(2);

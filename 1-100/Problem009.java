@@ -1,4 +1,4 @@
-public class Problem9 {
+public class Problem009 {
     public static int answer() {
         int product = 0;
         for (int a = 1; a < 999; a++) {

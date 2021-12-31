@@ -1,4 +1,4 @@
-public class Problem4 {
+public class Problem004 {
     public static int answer() {
         int largest = 0;
         for (int i = 100; i < 1000; i++) {

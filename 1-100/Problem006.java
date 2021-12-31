@@ -1,4 +1,4 @@
-public class Problem6 {
+public class Problem006 {
     public static int answer() {
         int sum = 0;
         int square =  (int) Math.pow((100 * 101 / 2), 2);

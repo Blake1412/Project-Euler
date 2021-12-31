@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Problem18 {
+public class Problem018 {
     public static int answer() throws FileNotFoundException {
         List<List<Integer>> triangle = new ArrayList<>();
         Scanner scan = new Scanner(new File("data.txt"));
