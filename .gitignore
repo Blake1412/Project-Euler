@@ -3,6 +3,7 @@ Driver.java
 data.txt
 Project-Euler.iml
 out/
+/.idea/
 
 # User-specific stuff
 .idea/**/workspace.xml
