@@ -1,3 +1,4 @@
+package src;
 
 public class Problem021 {
     private static int sumOfFactors(int n) {

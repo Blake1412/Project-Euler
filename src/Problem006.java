@@ -1,3 +1,5 @@
+package src;
+
 public class Problem006 {
     public static int answer() {
         int sum = 0;

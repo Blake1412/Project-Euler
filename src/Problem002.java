@@ -1,3 +1,5 @@
+package src;
+
 public class Problem002 {
     public static int answer() {
         int a = 1, b = 1, c = 0;

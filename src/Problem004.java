@@ -1,3 +1,5 @@
+package src;
+
 public class Problem004 {
     public static int answer() {
         int largest = 0;

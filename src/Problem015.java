@@ -1,3 +1,5 @@
+package src;
+
 public class Problem015 {
     public static long answer() {
         long[][] grid = new long[21][21];

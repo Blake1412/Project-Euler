@@ -1,3 +1,5 @@
+package src;
+
 public class Problem009 {
     public static int answer() {
         int product = 0;

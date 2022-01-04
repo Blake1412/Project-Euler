@@ -1,3 +1,5 @@
+package src;
+
 public class Problem012 {
     public static int answer() {
         int number = 0;
@@ -6,7 +8,7 @@ public class Problem012 {
             number = (i * (i + 1)) / 2;
             for (int j = 1; j <= Math.sqrt(number); j++) {
                 if (number % j == 0) {
-                    count += 2; // For every divisor up to the square root, there is a corrosponding divisor above the square root
+                    count += 2; // For every divisor up to the square root, there is a corresponding divisor above the square root
                 }
             }
             if (count > 500) {

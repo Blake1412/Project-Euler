@@ -1,3 +1,5 @@
+package src;
+
 public class Problem014 {
     public static long answer() {
         long number = 0;

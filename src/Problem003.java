@@ -1,3 +1,5 @@
+package src;
+
 public class Problem003 {
     public static long answer() {
         long number = 600851475143L;

@@ -1,3 +1,5 @@
+package src;
+
 public class Problem010 {
     public static long answer() {
         long sum = 2;
